@@ -8,3 +8,5 @@
 TFT引脚
 
 ![TFT](TFT-TochLCD/TFT.png)
+
+<img src="TFT-TochLCD/BMP280.png" alt="BMP280" style="zoom:130%;" />
